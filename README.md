@@ -29,19 +29,19 @@
 
 ```bash
 cd ~/.openclaw/workspace/skills/
-git clone git@github.com:midboss1028-beep/whb-perspective.git
+git clone git@github.com:midboss1028-beep/wanghaibing.skill.git
 ```
 
 或在 OpenClaw 中：
 
 ```
-npx skills add midboss1028-beep/whb-perspective
+npx skills add midboss1028-beep/wanghaibing.skill
 ```
 
 ### Claude Code
 
 ```bash
-npx skills add midboss1028-beep/whb-perspective
+npx skills add midboss1028-beep/wanghaibing.skill
 ```
 
 ### 手动使用
